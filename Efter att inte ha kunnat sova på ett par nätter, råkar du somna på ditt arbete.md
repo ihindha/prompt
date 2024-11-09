@@ -1,24 +1,16 @@
 ---
-date: 2021-07-12
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKFW7XQF0D0P70469RDB2
-skapad: 2023-07-23
+skapad: 2021-07-12
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Efter att inte ha kunnat sova på ett par nätter, råkar du somna på ditt arbete
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-12
-
-# Efter att inte ha kunnat sova på ett par nätter, råkar du somna på ditt arbete
-
 "Hallå!"
 
 Jag hörde en svag röst samtidigt som jag kände en lätt knackning på axelen och slog upp mina ögon.

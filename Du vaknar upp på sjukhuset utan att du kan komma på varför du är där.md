@@ -7,7 +7,8 @@ tags:
   - 2024/skrivåret
 länkar:
   - "[[Start|Hem]]"
-  - "[[042. Skrivprompt|Skrivprompter]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
 Jag blinkar till lätt innan jag slår upp ögonen och ser upp i den vitmålade taket.
 

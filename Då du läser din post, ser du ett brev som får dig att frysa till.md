@@ -1,24 +1,17 @@
 ---
-date: 2020-09-16
-valvkod: 42
-created: 2022-09-17 16:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG0TA1TZGNNACYE8W7B2
-skapad: 2023-07-23
+skapad: 2020-09-16
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2020/skrivåret
+  - prompt/⭐
+titel: Då du läser din post, ser du ett brev som får dig att frysa till
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #2020/skrivåret #prompt/⭐ 
-> * `Datum:` 2020-09-16
-
-# Då du läser din post, ser du ett brev som får dig att frysa till
-
 Som vanligt var posten sen, vilket betydde att jag hade väntat i, vad som kändes, en evighet. En tid som jag kunde ha använde på ett betydligt mer produkktivt sätt och nu låg jag efter med mitt skrivande så jag skulle bli tvungen att sitta uppe halva natten. Inte nog med att den var sen, brevbäraren hade råkar köra på brevlådan. 
 
 Med en djup suck konstaterade jag att den nog skulle hålla ett tag till. Speciellt om jag lagade den söndriga biten. Det skulle nog bli hela natten. Innan jag gick in tog jag fram posten och tog med den in till köksbordet och skyndade vidare till verktygslådan för att hämta dessa så jag skulle kunna fixa postlådan.

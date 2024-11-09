@@ -1,24 +1,16 @@
 ---
-date: 2021-05-27
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG295V0N1R6QFBSSVZ96
-skapad: 2023-07-23
+skapad: 2021-05-27
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du vaknar upp naken i ett för dig okänt rum med någon som sitter och tittar på dig
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-05-27
-
-# Du vaknar upp naken i ett för dig okänt rum med någon som sitter och tittar på dig
-
 Jag sträckte på mig och öppnade försiktigt mina ögon och märkte att jag inte låg i men säng. När jag tänkte efter, kom jag inte ihåg att jag lagt mig över huvud taget. Det sista jag kommer ihåg är att jag, av någon outgrundlig anledning följde med den där mannen som jag av ren refläx hade smekt över hans kön när han försökte ta sig förbi mig i den trånga gången.
 
 Något får mig att söka min hand ner mot mitt oraörda sköte och till min förvåning är jag helt naken. Med en lätt axelryckning, börjat jag smeka mig mellan mina ben och det tar inte lång tid innan jag börjar känna den där underbara fukten som smakar så himmelskt. Ja, att det ju är så underbart gör ju inte det sämre.

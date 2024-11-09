@@ -1,24 +1,16 @@
 ---
-date: 2020-09-13
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG17X37B54DC46ZNZF40
-skapad: 2023-07-23
+skapad: 2020-09-13
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2020/skrivåret
+titel: Du är ute och går när du är tvungen att svara på ett sms och råkar stöta ihop med någon
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2020/skrivåret 
-> * `Datum:` 2020-09-13
-
-# Du är ute och går när du är tvungen att svara på ett sms och råkar stöta ihop med någon
-
 Som vanligt tar du en prommenad på din lunch. Det är en härlig dag och fåglarna sjunger i parkens alla träd. När du ser upp mot himlen ser du inte ett moln på himmelen. Kort sagt en härlig dag.
 
 Du sneglar upp mot kyrkans torn och tittar på den stora klockan som finns där. Tio över tolv. Det betyder att du har en dryg halvtimme kvar av din lunch och behöveer inte vara tillbaka på jobbet riktigt än utan du ska nog hinna äta de tre mackorna från kyrkparkens fik som du bara inte kan få nog av.

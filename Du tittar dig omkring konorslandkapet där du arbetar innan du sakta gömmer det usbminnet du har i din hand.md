@@ -1,24 +1,16 @@
 ---
-date: 2021-07-23
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKGP2C0D9E3EAYRMKY8XM
-skapad: 2023-07-23
+skapad: 2021-07-23
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du tittar dig omkring konorslandkapet där du arbetar innan du sakta gömmer det usbminnet du har i din hand
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-23
-
-# Du tittar dig omkring konorslandkapet där du arbetar innan du sakta gömmer det usbminnet du har i din hand
-
 Hur läänge sedan är det nu som jag ärbetat här? Nio veckor eller tio? Det spelar egentligen inte någon större roll, för nu är detta uppdrag snart över och jag kan återgå till mitt normala liv och äntligen få träffa min familj igen.
 
 Jag ser ut över kontorslandskapet för att se om Waldemar är på väg tillbaka och att ingen annan lagt märke till att jag sitter vid hans maskin. När jag försäkrat nig om att så inte är fallet, fiskar jag försiktigt farm den gummianka jag har gömt i min bh och stoppar snabbt in den i datorn.

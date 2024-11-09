@@ -1,24 +1,16 @@
 ---
-date: 2021-05-21
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG1X6GBA74AR89WVX8GK
-skapad: 2023-07-23
+skapad: 2021-05-21
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du är i parken för att titta på de fåglar som finn i dammen när en liten anka kommer faramvaggande till dig
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-05-21
-
-# Du är i parken för att titta på de fåglar som finn i dammen när en liten anka kommer faramvaggande till dig
-
 Det var årets första vårdag och jag hade bestämt att jag skulle gå till parken tillsammans med min lilla flicka. 
 
 Tänk vad tiden går, det var redan tre och ett halvt år sedan jag födde henne. Visst hade det varit en mycket lätt förlostning, men det betyder ju inte att det inte var smärtsamt.

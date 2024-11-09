@@ -1,24 +1,16 @@
 ---
-date: 2021-05-17
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG14HCX1VQ05SNRF2BZC
-skapad: 2023-07-23
+skapad: 2021-05-17
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du öppnar bildörren och slänger ut något på vägen
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-05-17
-
-# Du öppnar bildörren och slänger ut något på vägen
-
 Du öppnar den individuellt inslagna nöten och slänger ut omslagspappert genom fönstret på bilen och fortsätter köra den långa vägen hem.
 
 Med en suck börjar du tänka på att du ska ut på krogen som vanligt för att se om du kan få något napp på en skön liten trång fitta att köra in din grova, långa kuk i. Du kan riktigt känna hur byxorna börjar spänna av den av förväntan uppsvälda lämen.

@@ -1,24 +1,16 @@
 ---
-date: 2021-07-08
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG1RFNW9FZ1H1Y2W8SX3
-skapad: 2023-07-23
+skapad: 2021-07-08
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2024/skrivåret
+titel: Du är på en picknick med din älskade när det plötsligt kommer en åsna gående
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-08
-
-# Du är på en picknick med din älskade när det plötsligt kommer en åsna gående
-
 Det var en härlig vårdag i maj, inte för varm men ej heller för kall, när du och du bjuder ut din pojkvän på en picknick i skogen. Fåglarna kvittrade som om de fått spratt.
 
 "Vet du?" log Erik.

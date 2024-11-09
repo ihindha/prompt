@@ -1,24 +1,16 @@
 ---
-date: 2021-08-13
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG1GE4B2PYCAAE66B2D3
-skapad: 2023-07-23
+skapad: 2021-08-09
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du är ute och går medan du läser på din telefon när du helt enkelt går in i någon
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:`  2021-08-13
-
-# Du är ute och går medan du läser på din telefon när du helt enkelt går in i någon
-
 Vilket härligt det var så jag bestämde mig för att gå ut och gå en runda. Det är bara ett litet problem, vad ska jag nu lyssna på? Jag menar, jag lyssnade ju precis på den sista poddavsnittet, så jag vet inte riktigt vad jag ska lyssna på.
 
 Jag tog suckande fram min telefon och börjar leta rätt på en ny ljudbok. Inte nog med att den sista podden tog slut, jag läste ut min bok innan jag gick ut.

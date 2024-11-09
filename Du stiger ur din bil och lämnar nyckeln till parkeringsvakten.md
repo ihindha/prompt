@@ -1,24 +1,16 @@
 ---
-date: 2023-01-02
-valvkod: 42
-updated: 2023-09-01
-created: 2023-01-02 09:34
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKH7FANVXCYTG99YBX6WH
-skapad: 2023-07-23
+skapad: 2023-01-02
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2023/skrivåret
+titel: Du stiger ur din bil och lämnar nyckeln till parkeringsvakten
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:` #prompt | #2022/skrivåret 
-> * `Datum:` [[2023-01-02]]
-
-# Du stiger ur din bil och lämnar nyckeln till parkeringsvakten
-
 Med en suck öppnar du dörren till bilen och ser på den unga kvinnan som ser mot dig innan du lämnar nyckeln till henne.
 
 "Ta nu ordentligt vara på den är du snäll."

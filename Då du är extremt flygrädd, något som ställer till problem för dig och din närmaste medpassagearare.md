@@ -1,24 +1,16 @@
 ---
-date: 2020-09-23
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG0NVY0TK758YKCCV537
-skapad: 2023-07-23
+skapad: 2020-09-23
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2020/skrivåret
+titel: Då du är extremt flygrädd, något som ställer till problem för dig och din närmaste medpassagearare
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2020/skrivåret 
-> * `Datum:` 2020-09-23
-
-# Då du är extremt flygrädd, något som ställer till problem för dig och din närmaste medpassagearare
-
 Varför skulle hon envisas med att boka en flygbiljätt, när hon vet att jag är så flygrädd? Visst, jag var naturligtvis den bästa att sända på detta uppdrag. Och ja, att flyga dit *är* det enda egentliga alternativet om jag ville komma fram innan konferensen var över sedan länge.
 
 Men endå? Jag som är så rädd att flyga. Den förra gången jag satt i ett flygplan, höll jag på att ta sönder armstödet. Så nervös var jag. När så tiden för resan närmade sig, höll jag på att gå under av skräck.

@@ -1,24 +1,16 @@
 ---
-date: 2021-05-14
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG66FDZP0AA9RC66VSJ0
-skapad: 2023-07-23
+skapad: 2021-05-14
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du träffar en nära släkting som du inte känt till dess existens
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret | #varghamn 
-> * `Datum:` 2021-05-14
-
-# Du träffar en nära släkting som du inte känt till dess existens
-
 Jag visste egentligen inte varför jag hade gått med på detta. Visst lockade det erbjudande du fått av det stora modehuset. Men det var något som fick dig att inte riktigt lita på hur det hela. Det kändes helt enkelt för bra för att vara sant, speciellt som om det kommit helt oväntat. Jag menar, det klädmarket har ju hela tiden varit så noga med att enbart använda *sin egna modell*.
 
 Dessutom, att de ville träffas just på denna platsen gjorde det hela bara mer underligt. Ja, inte så att du inte varit i det hemska slottet tidigarare, men en då. Lite misstängt var det.

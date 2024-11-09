@@ -1,24 +1,16 @@
 ---
-date: 2021-06-09
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG06M5ACDF07SQMVHSQT
-skapad: 2023-07-23
+skapad: 2021-06-09
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Efter att din mor tröttnat på dig slänger hon ut dig
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-06-09
-
-# Efter att din mor tröttnat på dig slänger hon ut dig
-
 Så det hände tillslut ändå. Jag hade faktikt inte trott det om henne, att slänga ut sin fjortonåriga dotter, menar jag. Visst hade jag varit en handfull i bland, men endå.
 
 Naturligtvis hade hon nog förväntat sig att jag skulle sätta mig på trappan och sura tills hon ändrade sig, men tji fick hon.

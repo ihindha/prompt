@@ -1,24 +1,16 @@
 ---
-date: 2021-07-36
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKGY05SQQS1A7NS913W4T
-skapad: 2023-07-23
+skapad: 2021-07-26
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du står i duschen och låter vattnet när du plötsligt blir kallad tillbaka till verkligheten av att du känner en mjuk hand som börjar smeka din läm och när du öppnar dina ögon står granndottern där och ler
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-36
-
-# Du står i duschen och låter vattnet när du plötsligt blir kallad tillbaka till verkligheten av att du känner en mjuk hand som börjar smeka din läm och när du öppnar dina ögon står granndottern där och ler
-
 Puh! Vilken dag!
 
 Inte nog med värmen, du har råkat komma lite efter i skolan eftersom du inte riktigt begrep vad läraren talade om. För att svalka dig lite gick du in i duschen och satte på en behaglig temperatur.

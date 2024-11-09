@@ -1,23 +1,16 @@
 ---
-date: 2021-08-19
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG24MF0032X09305P52D
-skapad: 2023-07-23
+skapad: 2021-08-19
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du vaknar upp på sjukhuset utan att veta hur du vad som hänt
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret | #varghamn 
-> * `Datum:`  2021-08-19
-
-# Du vaknar upp på sjukhuset utan att veta hur du vad som hänt
-
 Fy vad ont det gör! Jag återfick sakta mitt medvetande och märkte att det mer eller mindre värkte i hela min kropp.
 
 Försiktigt försökte jag att röra mig och till slut lyckades jag uppbåda sådan kraft att jag kunde stå emot smärtan och lyckades lyfta på min arm.

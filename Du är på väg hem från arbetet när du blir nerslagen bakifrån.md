@@ -1,24 +1,16 @@
 ---
-date: 2021-07-25
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG1JEWVKSKGRC8FT11RV
-skapad: 2023-07-23
+skapad: 2021-07-25
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du är på väg hem från arbetet när du blir nerslagen bakifrån
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-25
-
-# Du är på väg hem från arbetet när du blir nerslagen bakifrån
-
 Hur ska jag göra med den information jag fick idag? Om detta skulle komma ut, skulle det kunna betyda att mycket rika och därmed extremt farliga individer skulle kunna förlora merparten av sin förmögenhet, något de inte är sugna på att göra.
 
 Men samtidigt så kunde detta svinligheter få fortsätta, men jag visste inte om jag var den rätta personen för att göra någoting?

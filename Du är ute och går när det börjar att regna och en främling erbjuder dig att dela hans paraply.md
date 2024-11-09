@@ -1,24 +1,16 @@
 ---
-date: 2021-08-07
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG1BG4K7526BHP3W0TDP
-skapad: 2023-07-23
+skapad: 2021-08-07
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du är ute och går när det börjar att regna och en främling erbjuder dig att dela hans paraply
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret
-> * `Datum:` [[2021-08-07]]
-
-# Du är ute och går när det börjar att regna och en främling erbjuder dig att dela hans paraply
-
 Då det var ett härligt väder, beslöt jag mig att gå ut och gå. Jag älskar bara denna parken och eftersom det inte var så kalt när jag beslöt mig att gå ut, så tog jag bara det allra nödvändigaste med mig. Det vill säga, min mobil och nyclarna. Givetvis var jag klädd i en ljus sommarklänning som knappt räckte ner till mina knän.
 
 Knappt hade jag hunnit fram till parken fören himlen bara öppnade sig och det började ösa ner regn. Naturligtvis svor jag över hur jag kunde varit så dum att jag inte tog min jacka eftersom jag nu skulle bli genomblöt.

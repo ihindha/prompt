@@ -1,24 +1,16 @@
 ---
-date: 2021-05-11
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG1TK8FS2RX5QPKEHQSG
-skapad: 2023-07-23
+skapad: 2021-05-11
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du är inte hemma när en storm rullar in och du behöver söka skydd
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-05-11
-
-# Du är inte hemma när en storm rullar in och du behöver söka skydd
-
 Av någon anledning hade jag gått iväg utan att tänka dig för. Mor hade gjort mig så förbannad att jag inte kunde tänka. När jag nu lugnat ner mig, hade jag sätt mig omkring utan at riktigt veta var jag var.
 
 Med en suck drog jag fram min telefon och gick in i dess karta efter var jag var och till min stora förvåning hade jag gått tre mil på bara en timme utan att för den saken skull känna mig så trött.

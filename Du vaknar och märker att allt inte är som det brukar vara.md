@@ -1,23 +1,16 @@
 ---
-date: 2021-09-07
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG2DJYNFF0TK1RXP2GRF
-skapad: 2023-07-23
+skapad: 2021-09-07
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du vaknar och märker att allt inte är som det brukar vara
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:`  2021-09-07
-
-# Du vaknar och märker att allt inte är som det brukar vara
-
 Jag sträckte på mig och böjade att återfå mitt medvetande efter en natts sömn. Det var ingen brotska för mig att stiga upp, dels för att jag har sommarlov. Därtill var mina föräldrar inte hemma, utan de var på resa och skulle inte komma hem på en hel vecka.
 
 Så skönt! En hel vecka till vara mig själv. Underbart!

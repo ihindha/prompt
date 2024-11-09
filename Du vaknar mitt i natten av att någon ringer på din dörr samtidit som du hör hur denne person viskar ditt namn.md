@@ -1,24 +1,16 @@
 ---
-date: 2021-06-06
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG2GGWXGFWKC43RHC2GG
-skapad: 2023-07-23
+skapad: 2021-06-06
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du vaknar mitt i natten av att någon ringer på din dörr samtidit som du hör hur denne person viskar ditt namn
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-06-06
-
-# Du vaknar mitt i natten av att någon ringer på din dörr samtidit som du hör hur denne person viskar ditt namn
-
 Något yrvaken sätter du dig rakt upp i din säng.
 
 *Vad var det?*

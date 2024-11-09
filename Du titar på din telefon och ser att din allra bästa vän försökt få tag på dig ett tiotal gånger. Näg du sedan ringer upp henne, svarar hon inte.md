@@ -1,23 +1,16 @@
 ---
-date: 2022-02-04
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKGT2GC6ZB8PFNZN2D2S4
-skapad: 2023-07-23
+skapad: 2022-02-04
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2022/skrivåret
+titel: Du titar på din telefon och ser att din allra bästa vän försökt få tag på dig ett tiotal gånger. Näg du sedan ringer upp henne, svarar hon inte
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2022/skrivåret 
-> * `Datum:`  [[2022-02-04]]
-
-# Du titar på din telefon och ser att din allra bästa vän försökt få tag på dig ett tiotal gånger. Näg du sedan ringer upp henne, svarar hon inte
-
 "Fan!" 
 
 Jag ser på skärmen till min telefon. Tolv missade samtal och alla kommer från min "syster," Anna.

@@ -1,24 +1,16 @@
 ---
-date: 2021-04-30
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKFNYZGP5685TB83WW06Q
-skapad: 2023-07-23
+skapad: 2021-04-30
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Efter din hustru dog och tog med sig den dotter hon höll på att föda, drar du dig tillbaka och verkligen sörjer ditt livs kärlek. Under ett par år sitter du själv och bara tycker synd om dig själv, tills den dag då hennes kusin helt plötsligt bara knackar på din dörr och ber dig om hjälp.
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-04-30
-
-# Efter din hustru dog och tog med sig den dotter hon höll på att föda, drar du dig tillbaka och verkligen sörjer ditt livs kärlek. Under ett par år sitter du själv och bara tycker synd om dig själv, tills den dag då hennes kusin helt plötsligt bara knackar på din dörr och ber dig om hjälp.
-
 Sedan den tragiska dagen för snart tre år sedan, då Lady Kathrine så tragiskt avled när hon födde sin och Lord Mortimer Mudgraves första dotter. Inte heller dottern hade klarat sig. Detta kom att leda till att Lord Mortimer mer eller mindre drabbades av en mycket djup depresion och drog sig tillbaka till sitt gots Mudhurst och efter att ha avskedat i princip hela arbetsstyrkan utom ett absolut minimum. 
 
 Han hade älskat Kathrine mer än sitt egna liv och det gick inte en dag då han inte önskade att det var han som dog och hon som klarade sig. 

@@ -1,24 +1,16 @@
 ---
-date: 2021-06-03
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKG2PEDW26907N3NVJFP8
-skapad: 2023-07-23
+skapad: 2021-06-03
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du vaknar av att din lillasyster har smugit upp till dig i din säng och smeker sig själv samtidigt som hon smeker din "lilla sak"
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-06-03
-
-# Du vaknar av att din lillasyster har smugit upp till dig i din säng och smeker sig själv samtidigt som hon smeker din "lilla sak"
-
 Det hade blivit sent igår kväll eftersom jag passat på att spela ett par omgångar med polarna. Därför hade jag inte kommit i säng fören vid halv tre. Som tur var, hade jag sovmorgon idag och för att vara riktigt ärlig, var det ju lov så det enda jag egentligen behövde tänka på, var att jag lovat syrran att hjälpa henne med en grej. Vad det nu var, visste jag inte eftersom hon inte riktigt berättat vad det var.
 
 Det enda hon sagt var att jag skulle gilla det.
