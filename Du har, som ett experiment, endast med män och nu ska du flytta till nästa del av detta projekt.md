@@ -1,24 +1,16 @@
 ---
-date: 2021-08-04
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKX9B0SK4PV88RSNM29T
-skapad: 2023-07-23
+skapad: 2021-08-04
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du har, som ett experiment, endast med män och nu ska du flytta till nästa del av detta projekt
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret
-> * `Datum:` 2021-08-04
-
-# Du har, som ett experiment, endast med män och nu ska du flytta till nästa del av detta projekt
-
 När jag kom in i genom dörren, såg jag de sju sitta där. Förmodligen var del lika nervösa och undrande som jag var. Det första som slog mig var att jag tyckte att deras uppenbarelser var mycket vackra och jag kunde inte låta bli att stirra på dem.
 
 Det första jag la märke till var att de framtill hade två ganska stora, och enligt mig otroligt vackra, utbuktningar just där deras bröstvårtor, som dessutom var större än mina, fanns. Av någon anledning kunde jag först inte ta mina ögon från dessa vackra halvkloten vars storlek tycktes variera mellan dem. Att från ett par i storlek med en halv grapefrukt till att de nästan inte syntes över huvudtaget.

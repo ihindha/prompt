@@ -1,24 +1,16 @@
 ---
-date: 2020-09-20
-valvkod: 42
-created: 2022-09-17 16:38
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKMCFTBPF9AGFZP23XJ6B
-skapad: 2023-07-23
+skapad: 2020-09-20
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2020/skrivåret
+titel: Du behöver skriva ner något och du skyndar dig att leta upp penna och papper
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #2020/skrivåret #prompt/⭐ 
-> * `Datum:` 2020-09-20
-
-# Du behöver skriva ner något och du skyndar dig att leta upp penna och papper
-
 Snabbt tömde jag ut lådans innehåll på bordet och började att leta igenom dess innehåll.
 
 1123-5813-2134-5589

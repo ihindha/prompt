@@ -7,7 +7,8 @@ tags:
   - 2023/skrivåret
 länkar:
   - "[[Start|Hem]]"
-  - "[[042. Skrivprompt|Skrivprompter]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
 Då jag först vilade mina ögon på Malia, visste jag att jag var tvungen att få henne. Inte gjorde det saken bättre att hon faktiskt var den som hennes far, byns hövding, hade avsatt för att jag skulle lära mig deras seder. Till saken hör att jag är ganska bra på att lära mig språk och att det trots allt hade lärt mig deras, ganska invesklade sätt att tala, på bara tre månader.
 

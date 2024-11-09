@@ -1,24 +1,16 @@
 ---
-date: 2021-05-10
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKZWBQE5JFQ2JZKXQWB3
-skapad: 2023-07-23
+skapad: 2021-05-10
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du har precis köpt dig en ny träl
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-05-10
-
-# Du har precis köpt dig en ny träl
-
 Hon är extremt vacker. Hur hennes förra ägarae inte redan bestigit henne är för dig en gåta, men hon är helt orörd. Det har du till och med intyg på.
 
 Hennes ljusbruna hud var det vackraste du någonsin sätt och det gäfer inte lite, då dun aptit på flickor är mycket stor.

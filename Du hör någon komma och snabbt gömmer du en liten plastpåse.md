@@ -1,24 +1,16 @@
 ---
-date: 2020-09-14
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKTMEEF6F95GVR3BWHP6
-skapad: 2023-07-23
+skapad: 2020-09-14
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2020/skrivåret
+titel: Du hör någon komma och snabbt gömmer du en liten plastpåse
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2020/skrivåret 
-> * `Datum:` 2020-09-14
-
-# Du hör någon komma och snabbt gömmer du en liten plastpåse
-
 Jag såg ut över det platta ladskapet. Bara åkra så långt ögat nådde. Solen sken och livet var allmänt trevligt. Jag hade tagit studenten för två väckor sedan och sökt in på läkarlinjen till hösten och var ganska säker på att jag skulle komma in. Högsta betyg och alla rätt på högskoleprovet. Det borde ju räcka men men.
 
 Jag tog fram asken ur sin påse och öppnade locket. Däri låg den vackraste ring jag någonsin sätt. Även om den inte hade någon sten var det ingen slät ring utan utmed dess sidor slingrade sig två rankor och möttes i ett hjärta på ovansidan. Att den dessutom var tillverad av vitt guld och glänste som silver, gorde den inte billig! 

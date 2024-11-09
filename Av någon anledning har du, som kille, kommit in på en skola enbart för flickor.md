@@ -7,6 +7,7 @@ tags:
   - 2023/skrivåret
 länkar:
   - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
   - "[[042. Skrivprompt|Skrivprompter]]"
 ---
 Jag såg på dörren med förvåning. Vad skulle jag göra här? Jag menar, till skillnad från alla andra elever, hade jag en, för min ålder, extremt välväxt kuk som då den stod var betydligt större än dylika saker var hos fult vuxna män.

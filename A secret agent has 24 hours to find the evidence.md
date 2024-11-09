@@ -7,7 +7,8 @@ tags:
   - 2023/skrivåret
 länkar:
   - "[[Start|Hem]]"
-  - "[[042. Skrivprompt|Skrivprompter]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
 
 Som vanligt gick jag igenom min daglina post och till min förvåning hittade jag ett intensägande kuvert som genst fångade mitt intresse. Då jag fått upp det, visade det sig att dess innehåll var mycket intressant.

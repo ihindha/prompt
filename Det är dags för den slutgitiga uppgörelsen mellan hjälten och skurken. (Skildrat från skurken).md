@@ -1,25 +1,16 @@
 ---
-date: 2020-08-30
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKMKPWV11XETNCETEYPT2
-skapad: 2023-07-23
+skapad: 2020-08-30
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2020/skrivåret
+titel: Det är dags för den slutgitiga uppgörelsen mellan hjälten och skurken. (Skildrat från skurken)
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2020/skrivåret
-> * `Datum:` 2020-08-30
-
-# Det är dags för den slutgitiga uppgörelsen mellan hjälten och skurken. (Skildrat från skurken)
-
-
 Den unga kvinnan som gisslat mig så länge, trängde sig in rumet. Mina vakter föll som om de vore höstlöv.
 
 "Du!"

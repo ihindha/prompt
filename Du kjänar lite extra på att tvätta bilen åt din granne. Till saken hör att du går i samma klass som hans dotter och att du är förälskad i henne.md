@@ -1,24 +1,16 @@
 ---
-date: 2021-07-03
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKQPQXFF0CPDD186Y9FN
-skapad: 2023-07-23
+skapad: 2021-07-03
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du kjänar lite extra på att tvätta bilen åt din granne. Till saken hör att du går i samma klass som hans dotter och att du är förälskad i henne
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-03
-
-# Du kjänar lite extra på att tvätta bilen åt din granne. Till saken hör att du går i samma klass som hans dotter och att du är förälskad i henne
-
 Puh! Det var jobbigt att tvätta hans bil denna dag. Inte nog med att det var omkring tjugoåtta grader i solen, av någon anledning hade han smutsat ner den riktigt och ordentligt. Visst han hade lovat dig lite mer betalt än den hundralapp du brukade få, men detta var nog mycket arbetsamt och det fick allt bli bra betalt.
 
 Efter att ha torkat mig på en handduk, gick jag mot dörren till huset och knackade på och blev genast insäpt.

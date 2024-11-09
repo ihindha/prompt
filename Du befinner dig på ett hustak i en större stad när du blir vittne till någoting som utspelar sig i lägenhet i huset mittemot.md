@@ -1,24 +1,16 @@
 ---
-date: 2020-09-24
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKMDEK99GXGKQQR6E7C6K
-skapad: 2023-07-23
+skapad: 2020-09-24
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2020/skrivåret
+titel: Du befinner dig på ett hustak i en större stad när du blir vittne till någoting som utspelar sig i lägenhet i huset mittemot
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2020/skrivåret | #varghamn 
-> * `Datum:` 2020-09-24
-
-# Du befinner dig på ett hustak i en större stad när du blir vittne till någoting som utspelar sig i lägenhet i huset mittemot
-
 "*Ni vet vad ni ska göra?*"
 
 Gabbi log.

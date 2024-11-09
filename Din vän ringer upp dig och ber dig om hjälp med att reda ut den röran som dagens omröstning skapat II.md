@@ -1,24 +1,16 @@
 ---
-date: 2021-06-22
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKMGGCYBEANAS0B3SPR5S
-skapad: 2023-07-23
+skapad: 2021-06-22
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Din vän ringer upp dig och ber dig om hjälp med att reda ut den röran som dagens omröstning skapat II
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret | #varghamn 
-> * `Datum:` 2021-06-22
-
-# Din vän ringer upp dig och ber dig om hjälp med att reda ut den röran som dagens omröstning skapat -II
-
 ***Fortsätt gårdagens pronpt.***
 
 Med en suck drog jag upp ringde upp.

@@ -1,24 +1,16 @@
 ---
-date: 2021-06-10
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKM1305K7TX2ZHGJ5AB6T
-skapad: 2023-07-23
+skapad: 2021-06-10
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du har lyckats komma över en kamera monterad på en osynlig och helt tyst drönare
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-06-10
-
-# Du har lyckats komma över en kamera monterad på en osynlig och helt tyst drönare.
-
 Var den kom från kan jag inte säga, men en dag hade jag bara den där tystlåtna och osynliga drönaren som det satt en perfekt kamera monterad på och genast visste jag vad jag skulle ha den till.
 
 Till saken hör kanske att jag är i besittning av mitt egna harem av flickor som jag fångat in och satt i arbete med den avel som jag faktiskt kan leva av. Vad gäller mina flickor, så efter ett par dagar hos mig så vill de faktiskt vara en del av mitt haren.

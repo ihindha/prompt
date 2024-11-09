@@ -1,24 +1,16 @@
 ---
-date: 2023-01-13
-valvkod: 42
-updated: 2023-09-01
-created: 2023-01-13 18:00
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKS6HB5YKMS9EFR8TRSV
-skapad: 2023-07-23
+skapad: 2023-01-13
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2023/skrivåret
+titel: Du kastar en blick på klockan innan du sätter på en timer och börjar ditt arbete
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:` #prompt | #2022/skrivåret 
-> * `Datum:` [[2023-01-13]]
-
-# Du kastar en blick på klockan innan du sätter på en timer och börjar ditt arbete
-
 Med en suck kastar du en kort blick på klockan. Halv fyra. Då skulle du ju ha tre kvart på dig att åtminsktånde börja. 
 
 Nåja. Det går inte att skuta på detta längre så du sätter en timer på fyrtio minuter innan du sätter dig ner och ser på den enorma hög med papper som ligger på ditt skrivbord.

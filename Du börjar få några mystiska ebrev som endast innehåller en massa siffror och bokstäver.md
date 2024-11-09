@@ -7,6 +7,7 @@ tags:
   - 2024/skrivåret
 länkar:
   - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
   - "[[042. Skrivprompt|Skrivprompter]]"
 ---
 Jag suckar medan jag sorterar de mystiska breven i en egen mapp.

@@ -1,24 +1,16 @@
 ---
-date: 2021-05-13
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKY88TN2QYHECVDJ02DP
-skapad: 2023-07-23
+skapad: 2021-05-13
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du har precis satt dig ner i din fåtölj med ett gott te och en god bok när det ringer på dörren
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-05-13
-
-# Du har precis satt dig ner i din fåtölj med ett gott te och en god bok när det ringer på dörren
-
 Äntligen! Som jag behöver slappna av och de bästa sätten du vet att göra det med är att kura ihop mig i min fåtölj som du ärvt efter den mormor, med en god bok och en mycket god kopp Darjeeling. Till på köpet har du satt på en mycket bra spellista på sterion.
 
 Det ända du sanar nu är en liten katt som sover på din mage, som en gammal kompis en gång sagt.

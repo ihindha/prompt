@@ -1,22 +1,16 @@
 ---
-created: 2022-10-14 13:40
-updated: 2023-09-01
-date: 2021-09-05
-valvkod: 42
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKM1J3HQGNTM65TEDMJSZ
-skapad: 2023-07-23
+skapad: 2021-09-05
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du för över ett kuvär till den person som du sitter tillsammas med på en restaurang
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:`  2021-09-05
-
-# Du för över ett kuvär till den person som du sitter tillsammas med på en restaurang
 "Detta är det bud du kommer att få av mig," sa jag och spände mina ögon i honom. "Antingen tar du det eller så blir det inte någon affär."
 
 Han svalde och tog försiktigt och disktret upp det kuvär jag lagt framför honom. Som för att försäkra sig om att ingen såg honom, kastade han en kort blick runt om kring oss och när han kände sig nöjd, bröt han det sigil som jag försliutit kuväret med.

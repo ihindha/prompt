@@ -1,24 +1,16 @@
 ---
-date: 2021-07-13
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKMKG0PVM17E4QRD98P0F
-skapad: 2023-07-23
+skapad: 2021-07-13
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Din sextonåriga flickvän berättar att du har gjort henne med barn
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-13
-
-# Din sextonåriga flickvän berättar att du har gjort henne med barn
-
 Jag såg på Sandra att det var något som tryckte henne, att hon inte var sitt vanliga spralliga jag. Sakta tog jag henne i min famn och log.
 
 "Vad är det älskling?"

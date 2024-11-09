@@ -7,6 +7,7 @@ tags:
   - 2023/skrivåret
 länkar:
   - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
   - "[[042. Skrivprompt|Skrivprompter]]"
 ---
 Jag vaknade upp med en enorm känsla av kåthet som det var mycket länge sedan jag känt och låter mina händer gå på upptäcksfärd över min kropp och det dröjde inte länge innan de nådde fram till sitt mål. Mitt sköte.

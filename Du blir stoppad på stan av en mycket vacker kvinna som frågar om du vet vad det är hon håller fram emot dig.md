@@ -1,28 +1,16 @@
 ---
-date: 2021-07-01
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKM8NSXAFMHY1R5907GG0
-skapad: 2023-07-23
+skapad: 2021-07-01
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du blir stoppad på stan av en mycket vacker kvinna som frågar om du vet vad det är hon håller fram emot dig
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-01
-
-# Du blir stoppad på stan av en mycket vacker kvinna som frågar om du vet vad det är hon håller fram emot dig
-
-# 
-
-***Du blir stoppad på stan av en mycket vacker kvinna som frågar om du vet vad det är hon håller fram emot dig.***
-
 Jag gick just förbi hörnet till [???] när jag kände en lätt knackning på min hägra axel. När jag vände mig om, såg jag en mycket vacker ung kvinna med en mikrofon i handen.
 
 Jag log mot henne.

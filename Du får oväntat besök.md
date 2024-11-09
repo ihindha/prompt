@@ -1,23 +1,16 @@
 ---
-date: 2021-09-04
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKM4JY5HVAHNSQ0GJ190N
-skapad: 2023-07-23
+skapad: 2021-09-04
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du får oväntat besök
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret | #varghamn 
-> * `Datum:`  2021-09-04
-
-# Du får oväntat besök
-
 Jag satt i min fotölj och läste en mycket god bok när det plötslite ringer på dörren. Med en mycket tung suck lägger jag mitt bokmärke på sin plats och lägger ifrån min bok innan jag reser mig.
 
 På vägen ut till hallen råkar jag slå ner min kopp med te på märken och svär till. Tur i oturen var den för det första helt tom och dessutiom så klarade den sig helt utan någon skada, vilket var mycket tur efrersom den varit min mormors och det enda jag hade kvar efter henne.

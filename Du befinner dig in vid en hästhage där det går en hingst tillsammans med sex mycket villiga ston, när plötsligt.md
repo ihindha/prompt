@@ -1,24 +1,17 @@
 ---
-date: 2021-05-16
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKMEPYXKQXW0DW1MS9EVN
-skapad: 2023-07-23
+date: ---
+skapad: 2021-05-16
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du befinner dig in vid en hästhage där det går en hingst tillsammans med sex mycket villiga ston, när plötsligt
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-05-16
-
-# Du befinner dig in vid en hästhage där det går en hingst tillsammans med sex mycket villiga ston, när plötsligt ...
-
 Hur det kom sig att jag var här, vet jag faktiskt inte men något hade dragit mig till denna avlägsna plats. Och när jag säger avlägsen, så menar jag verkligen avlägsen. Nästan mitt ute i skogen, hade någon anlagt en hage som du såg att det gick sju hästar i. Varför någon nu släpat med sig dessa stackars djur till denna gömda plats, var inte lätt att förstå.
 
 Då jag kom lite närmare såg jag att det faktiskt var sex ston och en vacker hingst och just som jag kom fram, började han roa sig kungligt med det extremt villiga stoet som stod närmst. Först blev jag naturligtvis mycket ställd, men när ingen av hästarna taycktes ta någon notis om mig, slappnade jag av.

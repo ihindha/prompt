@@ -1,23 +1,16 @@
 ---
-date: 2021-09-10
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKM17DHS61WEHP8P364S1
-skapad: 2023-07-23
+skapad: 2021-09-10
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du försöker smälta in medan folksamlingen försöker ta sig mot utgången
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:`  2021-09-10
-
-# Du försöker smälta in medan folksamlingen försöker ta sig mot utgången
-
 På förhand hade jag ställt mig så att när mitt dåd upptäcktes, skulle jag lätt kunna smita in i klungan och ta mig ut. Det var lätt.
 
 Ätminstånde i terorin. När det kom till praktken, så gick det inte riktigt lika enkelt som jag hade trott, jag var helt enkelt för bra på det jag gör så inten hade upptäckt honom. 

@@ -1,24 +1,16 @@
 ---
-date: 2021-07-15
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKM86GWQPY23CKS96ZQYP
-skapad: 2023-07-23
+skapad: 2021-07-15
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du brukar gå till ett kafé i närheten där du bor för att arbeta. Denna dagen kan du dock inte skriva utan spenderar din tid med att titta på de andra besökarna
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-15
-
-# Du brukar gå till ett kafé i närheten där du bor för att arbeta. Denna dagen kan du dock inte skriva utan spenderar din tid med att titta på de andra besökarna
-
 Som vanligt gick jag till Rosas kondis på gågatan. Det brukar jag göra varje dag då jag tycker att det är så trevligt att få komma ut och träffa folk. Att skriva är annars ganska ensamt.
 
 "Hej!" sa Erika, den unga blonda expediten och gav mig sitt allra vackraste leende. "Det vanliga Anders?"

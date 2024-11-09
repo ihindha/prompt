@@ -1,23 +1,16 @@
 ---
-date: 2021-09-20
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKNX3ACJ5C7VHWH39Z8C
-skapad: 2023-07-23
+skapad: 2021-09-20
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du kommer hem till din hemliga pojkvän för att tala om att du bär hans barn under ditt hjörta, när hans mor berätta att han tyvärr är död
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:`  2021-09-20
-
-# Du kommer hem till din hemliga pojkvän för att tala om att du bär hans barn under ditt hjörta, när hans mor berätta att han tyvärr är död
-
 Men en stor bävan öppnade jag grinden till det stora huset. Det var egentigen inte på detta sättet som jag önskade bli pressenterad för hans familj, men nu var det som det var och jag hade inte fått tag på honom på hela dagen. 
 
 Väl framme vid den fina dörren, tvekade jag först ett ögonblick innan jag lyfte min hand och innan mina näver sviker mig, ringer jag på.

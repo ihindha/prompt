@@ -7,6 +7,7 @@ tags:
   - 2023/skrivåret
 länkar:
   - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
   - "[[042. Skrivprompt|Skrivprompter]]"
 ---
 Jag vaknade av att jag var i stort behov av att gå på toa och lätt på min blåsa. Tyvärr kände jag att jag inte var ensam i sängen utan det var någon som låg på mitt bröst.

@@ -1,24 +1,16 @@
 ---
-date: 2021-07-24
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKSAXVE2S0ZYFMRHK1HF
-skapad: 2023-07-23
+skapad: 2021-07-24
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du jagar efter ett papper som vinden blåst bort
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-24
-
-# Du jagar efter ett papper som vinden blåst bort
-
 "Låt det inte komma bort!"
 
 Du undrar vem som skriker efter dig så du vänder dig om lagom för att se hur ett papper virvlar förbi dig med en mycket attraktiv ung kvinna springande efter.

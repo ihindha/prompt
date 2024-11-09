@@ -7,6 +7,7 @@ tags:
   - 2023/skrivåret
 länkar:
   - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
   - "[[042. Skrivprompt|Skrivprompter]]"
 ---
 -

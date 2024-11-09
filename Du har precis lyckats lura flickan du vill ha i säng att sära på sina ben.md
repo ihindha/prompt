@@ -1,24 +1,16 @@
 ---
-date: 2021-05-12
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKZSJ2YVEE7BTB1PCZ63
-skapad: 2023-07-23
+skapad: 2021-05-12
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du har precis lyckats lura flickan du vill ha i säng att sära på sina ben
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-05-12
-
-# Du har precis lyckats lura flickan du vill ha i säng att sära på sina ben ...
-
 Du ler mot flickan.
 
 "Är du säker?"

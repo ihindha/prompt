@@ -1,23 +1,16 @@
 ---
-date: 2021-08-31
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKTW6H4NBNFDTQP22J3Z
-skapad: 2023-07-23
+skapad: 2021-08-31
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du håller precis på att ta fram din telefon när den plötligt börjar att ringa
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret | #varghamn 
-> * `Datum:`  2021-08-31
-
-# Du håller precis på att ta fram din telefon när den plötligt börjar att ringa
-
 Jag hade inte varit berädd på det utan han hade bara kommit som en blixt från en klar himmel. Sedan hade han försvunnit lika snabbt som han hade kommit och kvar stog jag och undrade vad som hände och det var inte någon känsla som jag tyckte om att känna.
 
 Inte så att han egentligen hade gjort mig något mer än att han bad mig hälsa till en gammal vän att nu kastade han handskarna. Vad han nu menade med detta. Och lite underligt hade det känts. Jag menar, jag hade inte sätt eller hört något från henne sedan jag varit tvungen att flytta till Eksjö under våren i fjärde klass sedan mina föräldrar fått nya arbeten där.

@@ -1,24 +1,16 @@
 ---
-date: 2021-05-29
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKP0P9MF9JJJ8PYEE2WP
-skapad: 2023-07-23
+skapad: 2021-05-29
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du kommer hem tidigare än vad du tänkt dig och hör ljud från din lillasysters rum
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-05-29
-
-# Du kommer hem tidigare än vad du tänkt dig och hör ljud från din lillasysters rum
-
 Jag hade varit på ett möte med skolrådet och kom hem lite tidigare än vad du hade tänkt att du skulle göra. Inget problem egentligen, men just denna vecka skulle mamma inte vara hemma, då hon var borta på en konfetens med arbetet.
 
 Det betydde att jag skulle behöva se till Sara, min lilla syster. Men då vi alltid kom mycket bra överens, skulle det inte göra något. Visst hade vi haft våra duster, men vilka syskon har inte det?

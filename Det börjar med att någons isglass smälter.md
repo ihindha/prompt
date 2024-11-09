@@ -1,24 +1,18 @@
 ---
-date: 2020-09-04
-valvkod: 42
-created: 2022-09-17 16:37
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKMMPQNJ8FAXKC518GB13
-skapad: 2023-07-23
+skapad: 2020-09-04
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2020/skrivåret
+  - prompt/⭐
+  - prompt/söt
+titel: Det börjar med att någons isglass smälter
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt/söt #prompt/⭐ #2020/skrivåret 
-> * `Datum:` 2020-09-04
-
-# Det börjar med att någons isglass smälter
-
 "Ma-ma-ma!"
 
 Lina tittade på sin dotter. Vad var det nu? Kunde hon inte få vila sig ens i två munuter?
