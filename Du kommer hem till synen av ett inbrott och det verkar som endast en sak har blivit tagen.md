@@ -1,24 +1,16 @@
 ---
-date: 2021-07-11
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKN306GTXWPXQW8970TV
-skapad: 2023-07-23
+skapad: 2021-07-11
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du kommer hem till synen av ett inbrott och det verkar som endast en sak har blivit tagen
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret | #varghamn 
-> * `Datum:` 2021-07-11
-
-# Du kommer hem till synen av ett inbrott och det verkar som endast en sak har blivit tagen
-
 De två sista dagarna har varit mycket jobbiga och jag ville bara ha lite lugn och ro, men när jag kom hem visste jag att det var det sista jag skulle få. 
 
 Jag hatar att få inbrott och detta är inte den första gången under det senaste halvåret och varje gång har det visat sig att inget blivit taget. När det hade hänt två gånger på raken innom en vecka, blev polisen mycket irriterade, och då inte enbart på inbrottstjuven.

@@ -1,23 +1,16 @@
 ---
-date: 2021-08-18
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKJJFVCWJAC64ANWB08HS
-skapad: 2023-07-23
+skapad: 2021-08-18
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du pratar med kassörskan när du hör någon skrika bakom dig
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:`  2021-08-18
-
-# Du pratar med kassörskan när du hör någon skrika bakom dig
-
 Det är en härlig sommardag när du är i affären för att handla lite gått till ikväll.
 
 Du ler mot kassörskan och rodnar lätt när hon slår in dina varor.

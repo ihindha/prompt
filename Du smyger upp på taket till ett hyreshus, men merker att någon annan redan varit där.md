@@ -1,23 +1,16 @@
 ---
-date: 2021-08-16
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKH88B00Y8YYJGDWRQS6A
-skapad: 2023-07-23
+skapad: 2021-08-16
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du smyger upp på taket till ett hyreshus, men merker att någon annan redan varit där
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret | #varghamn 
-> * `Datum:`  2021-08-16
-
-# Du smyger upp på taket till ett hyreshus, men merker att någon annan redan varit där
-
 "*Ni vet vad ni ska göra?*" sa Mika till oss på mental väg.
 
 "*Ja.*" sa de andra.

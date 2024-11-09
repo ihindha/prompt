@@ -1,24 +1,16 @@
 ---
-date: 2021-08-09
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKDM4F1AQ98F4MDQ9BHJ
-skapad: 2023-07-23
+skapad: 2021-08-09
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du lägger en spårningsanorning i någons ryggsäck
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret
-> * `Datum:` [[2021-08-09]]
-
-# Du lägger en spårningsanorning i någons ryggsäck
-
 Försiktigt, utan att någon märkte vad du gjorde, lät jag den lilla spårare i hennes ryggsäck. Hon var utvald på måfå för att jag skulle kunna testa spårarens duglighet.
 
 Sedan Apple släppte sin itag, eller vad den nu heter, hade jag börjat tänka på hur jag skulle kunna bygga något liknande utan att behöva ta hänsyn till deras idiotiska begränsningar. Jag vill kunna spåra någon utan att hon finge veta att jag trots allt gjorde det.

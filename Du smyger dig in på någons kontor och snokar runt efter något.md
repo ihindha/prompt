@@ -1,23 +1,16 @@
 ---
-date: 2021-09-07
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKH8HFX4H8ZS8G5FSB5VD
-skapad: 2023-07-23
+skapad: 2021-09-07
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du smyger dig in på någons kontor och snokar runt efter något
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret | #varghamn 
-> * `Datum:`  2021-09-07
-
-# Du smyger dig in på någons kontor och snokar runt efter något
-
 "*Hur ska vi göra?*"
 
 "*Vad menar du syrran?*" sa jag och såg på henne.

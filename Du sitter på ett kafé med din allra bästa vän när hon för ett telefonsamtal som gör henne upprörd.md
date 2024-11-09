@@ -1,24 +1,16 @@
 ---
-date: 2021-07-27
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKHHC9VXEC1DNK953WJG6
-skapad: 2023-07-23
+skapad: 2021-07-27
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du sitter på ett kafé med din allra bästa vän när hon för ett telefonsamtal som gör henne upprörd
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-27
-
-# Du sitter på ett kafé med din allra bästa vän när hon för ett telefonsamtal som gör henne upprörd
-
 Det var alldeles för länge sedan som jag och Emma träffades. Trots detta hade vi genast kommit börjat prata som om ingen tid hade gått och inte den månaden det faktiskt varit. Inte så att vi inte talat med varandra under denna tiden, men vi hade inte träffats eftersom vi båda haft ett ganska hektiskt program. Hon med sin extremt svartsjuke, nu före detta pojkvän och jag med mitt arbete.
 
 Men nu hade vi således haft tid att ses öga mot öga.

@@ -1,23 +1,16 @@
 ---
-date: 2022-01-21
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKJ9ESCPB1CS0P0NMW6MA
-skapad: 2023-07-23
+skapad: 2022-01-21
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2022/skrivåret
+titel: Du ser på nyheterna något får dig att bli förvånad
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2022/skrivåret 
-> * `Datum:`  [[2022-01-21]]
-
-# Du ser på nyheterna något får dig att bli förvånad
-
 Du ser på klockan och svär något innan du skyndar dig in till teven för att sätta på teven för att se på nyheterna. Medan du sätter dig i din fotölj och lägger upp dina föter, pratar ankaret om någon skurk som lyckats lura av gamla pensjonärer deras livsbesparingar och satt dem på bar backe.
 
 Polisen hade lyckats få fast den korkade skurken, som inte lyckats gömma alla pengar utan bara hade dem sittande på sitt konto. Därför hade de stackare som blivit lurade fått tillbaka sina pengar och därmed hade alla blivit glada och lyckliga. Ja, med undantag för skurken, som åkt in bakom galler för en avsenlig tid framöver.

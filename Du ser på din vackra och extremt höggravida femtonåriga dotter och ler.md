@@ -1,24 +1,16 @@
 ---
-date: 2021-07-29
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKJA3C8VBPZN57R9W1YR1
-skapad: 2023-07-23
+skapad: 2021-07-29
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du ser på din vackra och extremt höggravida femtonåriga dotter och ler
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-29
-
-# Du ser på din vackra och extremt höggravida femtonåriga dotter och ler
-
 Jag satt i soffan och läste när Sandra, min femtonåriga dotter kommer vaggande och sätter sig i sin fåtölj. Jag kan inte låta bli att titta på henne och le.
 
 "Hej pappa," kvittrade hon. "Vad läser du?"

@@ -1,23 +1,16 @@
 ---
-date: 2021-09-01
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKBQCP1AYX551JR6M982
-skapad: 2023-07-23
+skapad: 2021-09-01
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du möter två systrar som fångar din uppmärksamhet
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:`  2021-09-02
-
-# Du möter två systrar som fångar din uppmärksamhet
-
 De två systrarna Anna, 16 och Maria, 15 hade svarat på min anons om att jag sökte unga flickor till ett expriment jag tänkte bedriva. Efter att jag försäkrat mig om att de inte skulle tala om för någon att de svarade på min anons, gick jag med på att möta dem.
 
 De var två var verkligen varandras motpoler där det förvånande var Maria som var den drivande medan Anna den mer tillbakadragna av dem två. Om jag inte vetat bättre, hade jag faktiskt trott att det var Maria som var den av dem som var äldst, då hom verkade betydligt mer världsvan än sin storasyster. När så jag berättat för dem vad det hela gick ut på, hade Maria först varit skeptisk.

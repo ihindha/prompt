@@ -1,24 +1,16 @@
 ---
-date: 2022-12-29
-valvkod: 42
-updated: 2023-09-01
-created: 2022-12-29 14:33
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKJ3GMD2B4VW5DDHSFY4B
-skapad: 2023-07-23
+skapad: 2022-12-29
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2022/skrivåret
+titel: Du sitter i en soffa och lyssnar på personen vid din sida
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:` #prompt | #2022/skrivåret 
-> * `Datum:` [[2022-12-29]]
-
-# Du sitter i en soffa och lyssnar på personen vid din sida
-
 Fy vad tråkigt detta var!
 
 Han måste vara förälskad i sin egen röst. Och inte har han något vättigt att säga heller.

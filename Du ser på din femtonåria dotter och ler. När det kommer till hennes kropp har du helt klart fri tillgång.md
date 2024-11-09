@@ -1,24 +1,16 @@
 ---
-date: 2021-07-07
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKJC8D460V3J14P1BVZD9
-skapad: 2023-07-23
+skapad: 2021-07-07
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du ser på din femtonåria dotter och ler. När det kommer till hennes kropp har du helt klart fri tillgång
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-07
-
-# Du ser på din femtonåria dotter och ler. När det kommer till hennes kropp har du helt klart fri tillgång
-
 Du vaknar och ser på klockan.
 
 Halv åtta. Vem i hela världen duschar klockan halv åtta på morgonen en lördag?

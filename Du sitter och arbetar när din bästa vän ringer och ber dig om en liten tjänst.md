@@ -1,24 +1,16 @@
 ---
-date: 2021-07-02
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKHKD19SK9CAGSS4J93D8
-skapad: 2023-07-23
+skapad: 2024-11-09
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2024/skrivåret
+titel: Du sitter och arbetar när din bästa vän ringer och ber dig om en liten tjänst
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-02
-
-# Du sitter och arbetar när din bästa vän ringer och ber dig om en liten tjänst
-
 Jag suckade tungt. 
 
 Varför skulle min konsentration svika just nu? Jag menar, jag behöver få färdigt novellen jag för tillfället håller på att skriva tills på söndag. Det vill säga om tre dagar och jag saknar fortfarande ett och ett halvt tusen ord för att vara stämma med den beställning jag fått. Dessutom behöver jag få till slutet.

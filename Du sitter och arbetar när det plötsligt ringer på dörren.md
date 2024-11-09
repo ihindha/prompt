@@ -1,26 +1,16 @@
 ---
-date: 2021-05-05
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKHWD91PQAQVR7HTH430A
-skapad: 2023-07-23
+skapad: 2021-05-05
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du sitter och arbetar när det plötsligt ringer på dörren
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-05-05
-
-# Du sitter och arbetar när det plötsligt ringer på dörren
-
-***Du sitter och arbetar när det plötsligt ringer på dörren***
-
 Hela dagen har du suttit och försökt att skriva på din bok utan att du har kunnat få ur dig ett enda ord. När du precis lyckats komma in i ett tillstånd där testen bara flödat, ringer det på dörren.
 
 Först igrorerar du bar det irriterander ljudet, men när det inte upphör svär du och reser dig upp och med mycket ärga steg tar du dig snabbt fram till dörren och mer eller mindre smäller upp den.

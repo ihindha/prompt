@@ -1,24 +1,16 @@
 ---
-date: 2021-06-04
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKMX82BE4ZHRDMD67SQK
-skapad: 2023-07-23
+skapad: 2021-06-04
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du känner dig kåtare än vad du någonsin gjort gör något dumt
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-06-04
-
-# Du känner dig kåtare än vad du någonsin gjort gör något dumt
-
 Jag vet att det var helt fel, men jag kunde inte låta bli henne. Visst hon var min syster och jag visste att hon för tillfället var extremt fruktsam. Jag menar, hon var ju en femtonårog flicka bara några dagar innan hennes ägglossning. Trots detta hade jag faktiskt bestämt mig för att det skulle vara värt dn risk och det besvär som detta skulle medföra för mig.
 
 När jag väl hade bestämt mig, dåg jag till att jag skulle ha ett ordentligt alibi genom att jag hade skrivit ett skript som skulle lyckats lura de som jag testat dem på.

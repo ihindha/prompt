@@ -1,24 +1,16 @@
 ---
-date: 2021-05-15
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKBS2T7HPC5D2ZY6F4HM
-skapad: 2023-07-23
+skapad: 2021-05-15
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du monterar en dåld minikamera i din fostersysters rum och
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-05-15
-
-# Du monterar en dåld minikamera i din fostersysters rum och ...
-
 Jag vet egentligen int vad det var som fick mig att sätta upp en spionkamera i min fostersysters rum. Eller det vet jag väl, jag menar hon är ju en mycket vacker flicka och naturligtvis skulle jag inte tacka nej till att få fylla upp det hålrum hon har mellan sina ben med det praktexemplar som hänger mellan mina ben.
 
 En liten förklaring är kanske på sin plats. Sandra är naturligtvis inte min riktiga syster. Hon är inte ens min styvsyster, utan hon är min mors fosterdotter, som hon tog in i vårt hem för snart fem år sedan när vi båda var tio år efter det att hennes mor hade åkt in i fängelse för att ha mördat Sandras far.

@@ -1,24 +1,16 @@
 ---
-date: 2021-07-05
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKKMKN5GJ4F283R3XC6FE
-skapad: 2023-07-23
+skapad: 2021-07-05
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du ligger på din säng och tänker på din sedan länge döda hustru medan du smeker din läm, när dörren plötsligt öppnar dig och din extremt vackra och sexiga dotter kommer naken in och ler mot dig och frågar dig om "du är redo att känna den extremt våta och varma insidan av din lilla flicka."
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret 
-> * `Datum:` 2021-07-05
-
-# Du ligger på din säng och tänker på din sedan länge döda hustru medan du smeker din läm, när dörren plötsligt öppnar dig och din extremt vackra och sexiga dotter kommer naken in och ler mot dig och frågar dig om "du är redo att känna den extremt våta och varma insidan av din lilla flicka."
-
 Hur länge sedan det var som jag kände som jag nu gör, kan jag inte säga men det var ett bra tag sedan som jag skulle använda min snopp till något annat än att kissa genom. Inte sedan jag hade förlorat min hustru för snart ett och ett halvt år sedan, hade jag ens varit i närheten att visa denna delaen av mig något som hällst inträsse.
 
 Med bilden av hur underbar Stina varit i dylika situationer, la jag mig ner på min säng och började att slappna av och känna den underligt konstiga känslan av att mitt kön började resa sig till stridsläge. Precis när jag la min hand om den vid detta stadium ganska styva saken och började föra den fara och åter, hörde jag hur dörren till sovrummet öppnades och min sjuttonåriga dotter kom naken in genom dörren och log sitt allra vakraste leende.

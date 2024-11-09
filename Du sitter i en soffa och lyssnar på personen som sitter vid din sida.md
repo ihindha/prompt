@@ -1,23 +1,16 @@
 ---
-date: 2021-09-02
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKJ91B7EKFCPNJNZR3808
-skapad: 2023-07-23
+skapad: 2021-09-02
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du sitter i en soffa och lyssnar på personen som sitter vid din sida
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret | #varghamn 
-> * `Datum:`  2021-09-02
-
-# Du sitter i en soffa och lyssnar på personen som sitter vid din sida
-
 "Tack för att du hjälpte mig att komma från det där stället," sa han och log.
 
 "Ingen fara," sa jag. "Utan vår inblandning, hade det kanske blivit intressant nästa vecka."

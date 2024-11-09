@@ -1,24 +1,16 @@
 ---
-date: 2021-07-22
-valvkod: 42
-created: 2022-10-14 13:40
-updated: 2023-09-01
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
-id: 01H6ZWKK5DKT1VE86N13ZD8G7Z
-skapad: 2023-07-23
+skapad: 2021-07-22
 uppdaterad: 2024-11-09
+valvkod: 42
+tags:
+  - prompt
+  - 2021/skrivåret
+titel: Du och din make vaknar upp på ett för er okänt ställe V
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2021/skrivåret | #varghamn 
-> * `Datum:` 2021-07-22
-
-# Du och din make vaknar upp på ett för er okänt ställe - V
-
 ***Och en sista fortsättning***
 
 Hon log mot mig.

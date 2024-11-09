@@ -1,19 +1,16 @@
 ---
-created: 2022-10-14 13:40
-updated: 2022-10-14 13:52date: 2022-01-15
+skapad: 2022-01-15
+uppdaterad: 2024-11-09
 valvkod: 42
-banner: "![[s-prompt.png]]"
-banner_icon: 🟢
-banner_x: 0.5
-banner_y: 0.34827
+tags:
+  - prompt
+  - 2022/skrivåret
+titel: Du prässar dit huvud mot kasaspåpet medan du undersöker det
+länkar:
+  - "[[Start|Hem]]"
+  - "[[040. Mitt skrivande|Mitt skrivande]]"
+  - "[[042. Skrivprompt|Skrivprompt]]"
 ---
-[[Start|🏠Mitt hem]]| [[040-mitt-skrivande|✒️ Mitt skrivande]] | [[042. Skrivprompt|🟢 Skrivprompt]]
-> [!note]+ Metadata
-> * `Tags:`  #prompt | #2022/skrivåret | #varghamn 
-> * `Datum:`  2022-01-15
-
-# Du prässar dit huvud mot kasaspåpet medan du undersöker det
-
 "*Är du säker?*"
 
 "*Naturligtvis syrran. Brukar vi ha fel?*"
